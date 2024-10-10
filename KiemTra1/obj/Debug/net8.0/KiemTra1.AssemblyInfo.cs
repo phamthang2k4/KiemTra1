@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KiemTra1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f0093144aa199383af87ebbea137189b92b8bd5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+252dff016ff24ad072918d81ed9ac18b70548159")]
 [assembly: System.Reflection.AssemblyProductAttribute("KiemTra1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KiemTra1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
